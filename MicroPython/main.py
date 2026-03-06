@@ -55,6 +55,7 @@ while True:
         sleep(1000)
         pin13.write_digital(0)
         pin14.write_digital(0)
+
         # yellow
         pin15.write_digital(1)
         pin14.write_digital(1)
